@@ -1,31 +1,24 @@
-<h1 align="center">Hi, I'm Devia.</h1>
+<h1 align="center">Devia Artika Maharani</h1>
 
 <p align="center">
-  Software Engineering Technology student at Universitas Gadjah Mada
+  <a href="https://www.linkedin.com/in/devia-maharani-a744b4326"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square"></a>
+  <a href="mailto:deviamaharani628@gmail.com"><img alt="Email Devia" src="https://img.shields.io/badge/Email-35475A?style=flat-square&amp;logo=gmail&amp;logoColor=white"></a>
 </p>
+
+I study Software Engineering Technology at Universitas Gadjah Mada. I enjoy figuring out how a screen should behave once people start using it, especially when a form has several steps or the data changes along the way. I also rig characters in Blender and build gameplay interactions in Unreal Engine.
+
+## 🛠️ Tools I reach for
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/devia-maharani-a744b4326">LinkedIn</a> ·
-  <a href="mailto:deviamaharani628@gmail.com">Email</a>
+  <img alt="React, TypeScript, Vite, Tailwind CSS, Laravel, Figma, Blender, and Unreal Engine" src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,laravel,figma,blender,unreal&amp;perline=4">
+  <br>
+  <sub>Also working with React Native, REST APIs, MySQL, and Unreal Engine Blueprints</sub>
 </p>
 
-I turn Figma designs into responsive web and mobile apps and connect them to REST APIs. In Blender, I model, rig, and animate characters. Working on animation has made me more attentive to how interfaces move and respond.
+## 📌 A few things I've worked on
 
-## Web & mobile
-
-* **[SIMATKUL](https://github.com/azizahhazii/FE-SIMATKUL)** · As one of two frontend developers, I worked on the course scheduling interface and API integration. The scheduler disables conflicting rooms, lecturers, and classes while a schedule is being created.
-* **[Tentang Dental](https://github.com/Devia501/dental_mobile)** · I implemented the React Native frontend and REST API integration for a clinic app that records dental X-rays, examination notes, and patient history.
-* **[SIA Akademik](https://github.com/Devia501/SIA_FE)** · I built the React Native frontend for a university admissions app, including workflows for applicants, staff reviewing documents and payments, and admins.
-* **[Pinjol Watch](https://pinjol-watch.netlify.app/)** · I wrote the frontend for an educational site about illegal online lending in Indonesia, including an interactive timeline and an interest calculator.
-
-## 3D 
-* **[Connection Lost](https://drive.google.com/file/d/1o0Hq_7dv8BM3lHjzxG9c4En9RIPYMYt0/view?usp=sharing)** · For this animated short, I modeled and rigged the human and robot characters, built environment assets, and contributed to the animation.
-
-
-## Tools I work with
-
-**Web and mobile** · React, React Native, TypeScript, Vite, Tailwind CSS  
-**Backend and data** · REST APIs, Laravel, MySQL  
-**Design and 3D** · Figma, Blender, Unreal Engine 5
+* 🗓️ **[SIMATKUL](https://github.com/azizahhazii/FE-SIMATKUL)** · I helped build scheduling screens that rule out conflicting rooms, lecturers, and classes as users plan a timetable.
+* 📱 **[Tentang Dental](https://github.com/Devia501/dental_mobile)** · I built the React Native screens and connected the flows for documenting dental X-rays and looking up a patient's history.
+* 🎬 **[Connection Lost](https://drive.google.com/file/d/1o0Hq_7dv8BM3lHjzxG9c4En9RIPYMYt0/view?usp=sharing)** · I modeled and rigged both the human and the robot for this animated short.
 
 **Open to frontend or full stack internships starting January 2027.**
