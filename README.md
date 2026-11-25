@@ -9,7 +9,6 @@
 I study Software Engineering Technology at Universitas Gadjah Mada. I enjoy figuring out how a screen should behave once people start using it, especially when a form has several steps or the data changes along the way. I also rig characters in Blender and build gameplay interactions in Unreal Engine.
 
 ## 🛠️ Tools I reach for
-
 <p align="center">
   <img alt="React, TypeScript, Vite, Tailwind CSS, Laravel, Figma, Blender, and Unreal Engine" src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,laravel,figma,blender,unreal&amp;perline=4">
   <br>
@@ -17,10 +16,10 @@ I study Software Engineering Technology at Universitas Gadjah Mada. I enjoy figu
 </p>
 
 ## 📌 A few things I've worked on
-
 * 🗓️ **[SIMATKUL](https://github.com/azizahhazii/FE-SIMATKUL)** · I helped build scheduling screens that rule out conflicting rooms, lecturers, and classes as users plan a timetable.
 * 📱 **[Tentang Dental](https://github.com/Devia501/dental_mobile)** · I built the React Native screens and connected the flows for documenting dental X-rays and looking up a patient's history.
 * 🎬 **[Connection Lost](https://drive.google.com/file/d/1o0Hq_7dv8BM3lHjzxG9c4En9RIPYMYt0/view?usp=sharing)** · I modeled and rigged both the human and the robot for this animated short.
+  
 More projects and details at **[deviiaa.netlify.app](https://deviiaa.netlify.app/)**.
 
 **Open to frontend or full stack internships starting January 2027.**
