@@ -21,7 +21,6 @@ I study Software Engineering Technology at Universitas Gadjah Mada. I enjoy figu
 * 🗓️ **[SIMATKUL](https://github.com/azizahhazii/FE-SIMATKUL)** · I helped build scheduling screens that rule out conflicting rooms, lecturers, and classes as users plan a timetable.
 * 📱 **[Tentang Dental](https://github.com/Devia501/dental_mobile)** · I built the React Native screens and connected the flows for documenting dental X-rays and looking up a patient's history.
 * 🎬 **[Connection Lost](https://drive.google.com/file/d/1o0Hq_7dv8BM3lHjzxG9c4En9RIPYMYt0/view?usp=sharing)** · I modeled and rigged both the human and the robot for this animated short.
-
 More projects and details at **[deviiaa.netlify.app](https://deviiaa.netlify.app/)**.
 
 **Open to frontend or full stack internships starting January 2027.**
